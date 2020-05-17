@@ -1,0 +1,14 @@
+{
+    "elements": {},
+    "attributes": {
+        "codigo": {
+            "context": "input"
+        },
+        "cantidad": {
+            "context": "input"
+        },
+        "nombre": {
+            "context": "input"
+        }
+    }
+}
